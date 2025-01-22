@@ -115,7 +115,9 @@ language: Français
     "Select the Previous Take" = "Sélectionner la prise précédente"
     "Crop to Active Takes" = "Recadrer selon les prises actives"
     "Crop to Active/Liked Takes" = "Recadrer selon les prises actives/favorites"
-  
+  "Audio Analysis" = "Analyse de l'audio"
+    "Extract Notes from Audio" = "Extraire les notes depuis l'audio"
+
 "Project" = "Projet"
   "Tracks" = "Pistes"
   "Current Track: Mute" = "Piste actuelle: Couper"
