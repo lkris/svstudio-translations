@@ -357,7 +357,7 @@ language: Français
 "Import" = "Importer"
   "Failed to import uploaded file." = "Impossible d'importer le fichier téléchargé."
   "Failed to import MIDI." = "Impossible d'importer le fichier MIDI."
-  "Format not supported: '_'" = "Le format non supporté: '_'"
+  "Format not supported: '_'" = "Format non supporté: '_'"
   "Create new tracks for the imported project?" = "Créer de nouvelle pistes pour le projet importé?"
   "Create New Tracks" = "Créer ude nouvelles pistes"
   "Reopen as New Project" = "Réouvrir en tant que nouveau projet"
@@ -385,7 +385,7 @@ language: Français
 "invalid input type." = "type d'entrée invalide."
 "NoteGroupReference target can't be reset." = "la cible NoteGroupReference ne peut pas être réinitialisée."
 "the added NoteGroupReference has no target NoteGroup." = "le NoteGroupReference ajouté n'a pas de NoteGroup cible."
-"the added track contains a NoteGroupReference with no target NoteGroup." = "la piste ajoutée contient un NoteGroupReference sans NoteGroup cible.。"
+"the added track contains a NoteGroupReference with no target NoteGroup." = "la piste ajoutée contient un NoteGroupReference sans NoteGroup cible."
 "the added track contains a NoteGroupReference pointing to a NoteGroup that does not belong to this project." = "la piste ajoutée contient un NoteGroupReference pointant vers un NoteGroup qui n'appartient pas à ce projet."
 "the main group cannot be selected." = "le groupe principal ne peut pas être sélectionné."
 "can't select a note outside of the current scope." = "impossible de sélectionner une note en dehors de la portée courante."
@@ -419,7 +419,7 @@ language: Français
 
 "Update" = "Mise à jour"
   "Failed to download update for _." = "Le téléchargement de la mise à jour pour _ a échoué."
-  "Failed to install update packages for _." = "L'installation des packages à mettre à jour pour _ a échoué."
+  "Failed to install update packages for _." = "L'installation de la mise à jour des packages pour _ a échoué."
 
 "Voice Installer" = "Installateur des voix."
   "Previous" = "Précédent"
@@ -446,7 +446,7 @@ language: Français
   "Failed to access the installed product." = "Impossible d'accéder au produit installé."
   "_ has been updated to version _" = "_ a été mise à jour avec la version _"
   "Uninstalling _..." = " _ Désinstallation..."
-  "_ has been successfully uninstalled." = "_ a été désinstallée avec succès."
+  "_ has been successfully uninstalled." = "_ a été désinstallé avec succès."
   "An error occurred when trying to uninstall _." = "Une erreur est survenue lors de la tentative de désinstallation de _."
 
 "Install Package" = "Installation de package"
@@ -476,7 +476,7 @@ language: Français
 "Automation point array has odd points." = "Le tableau des points d'automation comporte des points impairs."
 "Property '_' is not an array (_)." = "La propriété '_' n'est pas un tableau (_)."
 "Expected _ object on property '_', got: _" = "Objet _ attendu pour la propriété '_', mais reçu: _."
-"Expected _ object, got: _" = "Object _ attendu, mais reçu: _.。"
+"Expected _ object, got: _" = "Objet _ attendu, mais reçu: _.。"
 
 "Kotonoha Akane & Aoi" = "Kotonoha Akane & Aoi"
 "Kotonoha Akane & Aoi (Lite)" = "Kotonoha Akane & Aoi (allégé)"
