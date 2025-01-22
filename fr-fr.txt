@@ -476,7 +476,7 @@ language: Français
 "Automation point array has odd points." = "Le tableau des points d'automation comporte des points impairs."
 "Property '_' is not an array (_)." = "La propriété '_' n'est pas un tableau (_)."
 "Expected _ object on property '_', got: _" = "Objet _ attendu pour la propriété '_', mais reçu: _."
-"Expected _ object, got: _" = "Objet _ attendu, mais reçu: _.。"
+"Expected _ object, got: _" = "Objet _ attendu, mais reçu: _."
 
 "Kotonoha Akane & Aoi" = "Kotonoha Akane & Aoi"
 "Kotonoha Akane & Aoi (Lite)" = "Kotonoha Akane & Aoi (allégé)"
